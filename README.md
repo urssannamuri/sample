@@ -1,2 +1,1 @@
-# sample
-for practice purpose
+sample project craetion
